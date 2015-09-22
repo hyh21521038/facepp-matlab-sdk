@@ -5,8 +5,8 @@
 clc; clear;
 % Load an image, input your API_KEY & API_SECRET
 img = 'demo.jpg';
-API_KEY = 'd45344602f6ffd77baeab05b99fb7730';
-API_SECRET = 'jKb9XJ_GQ5cKs0QOk6Cj1HordHFBWrgL';
+API_KEY = '19050bfa1dee75e63e91f95c54bc0be1';
+API_SECRET = 'l0cMtgguCFEp405JcN79AA7mKWk81EVa';
 
 % If you have chosen Amazon as your API sever and 
 % changed API_KEY&API_SECRET into yours, 
